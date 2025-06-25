@@ -1,0 +1,29 @@
+# Task 2: SQL Insert, Update, and Delete Operations – Ecommerce Database
+
+## 📌 Description
+This task is based on continuing the Ecommerce database created in Task 1. It includes data manipulation operations such as:
+
+- Inserting customer, product, order, and order detail records
+- Handling NULL values during insertion
+- Updating missing values using `UPDATE`
+- Deleting specific rows based on conditions using `DELETE`
+- Verifying the result using `SELECT` statements
+
+## 🛠️ Tools Used
+- MySQL Workbench
+- SQL (MySQL dialect)
+
+## 📂 Files Included
+- `ecommerce_day2_full.sql`: Full SQL script including `INSERT`, `UPDATE`, `DELETE`, and `SELECT` queries
+
+## ✅ Tables Affected
+- Customers
+- Products
+- Orders
+- OrderDetails
+
+## 🧪 Final Output
+Used `SELECT` queries to verify that:
+- NULL values were handled properly
+- Updates were successful
+- Deletions were correctly applied
